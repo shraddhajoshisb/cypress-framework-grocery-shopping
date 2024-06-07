@@ -7,11 +7,7 @@ This repository contains a Cypress end-to-end testing framework for automating t
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running Tests](#running-tests)
-- [Directory Structure](#directory-structure)
-- [Writing Tests](#writing-tests)
-- [Custom Commands](#custom-commands)
-- [Configuration](#configuration)
-- [License](#license)
+
 
   ## Prerequisites
 
@@ -26,3 +22,23 @@ Before you begin, ensure you have met the following requirements:
     git clone https://github.com/yourusername/cypress-e2e-framework.git
     cd cypress-e2e-framework
     ```
+
+2. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+## Running Tests
+
+To run the tests, you can use the following commands:
+
+- Open Cypress Test Runner:
+    ```sh
+    npx cypress open
+    ```
+
+- Run tests in headless mode:
+    ```sh
+    npx
+
+
