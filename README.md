@@ -6,6 +6,7 @@ This repository contains a Cypress end-to-end testing framework for automating t
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Environment Variables](#Environment-Variables)
 - [Running Tests](#running-tests)
 
 
@@ -27,6 +28,20 @@ Before you begin, ensure you have met the following requirements:
     ```sh
     npm install
     ```
+
+## Environment Variables
+
+Following Environment Vars should be set before running the tests
+
+`CYPRESS_LMS_USER_EMAIL`
+
+`CYPRESS_LMS_USER_PASSWORD`
+
+_Note_: The above are credentials for a normal edX user who does not have access to admin portal
+
+`CYPRESS_ADMIN_USER_EMAIL`
+
+`CYPRESS_ADMIN_USER_PASSWORD`
 
 ## Running Tests
 
