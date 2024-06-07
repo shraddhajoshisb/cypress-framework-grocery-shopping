@@ -2,6 +2,8 @@
 
 This repository contains a Cypress end-to-end testing framework for automating tests on the ecommerce website. It utilizes the page object model for organizing test code and fixtures for test data.
 
+![Cypress Logo](images/cypress-logo.png)
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
