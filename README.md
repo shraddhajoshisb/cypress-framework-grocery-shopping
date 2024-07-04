@@ -54,7 +54,7 @@ To run the tests, you can use the following commands:
     ```
 
 - Run tests in headless mode:
-- 
+
 To run Cypress tests in headless mode, follow these steps:
 
 1. Open a terminal.
