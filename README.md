@@ -54,7 +54,14 @@ To run the tests, you can use the following commands:
     ```
 
 - Run tests in headless mode:
-    ```sh
-    npx
+- 
+To run Cypress tests in headless mode, follow these steps:
+
+1. Open a terminal.
+2. Navigate to your project directory.
+3. Run Cypress in headless mode using the following command:
+
+```bash
+npx cypress run --headless
 
 
